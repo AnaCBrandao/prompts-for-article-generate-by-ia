@@ -35,8 +35,21 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Agentes Inteligentes                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | 
+Comporte-se como uma escritora de arigos tech e escreva o artigo atendendo às regras abaixo
 
+{REGRAS}
+No máximo 5 linhas por bloco de explicação
+Explique de maneira informal, como se eu fosse uma criança de 10 anos
+Os blocos que serão criados estão abaixo:
+- Defina agentes inteligentes e como funcionam
+- Como esses agentes facilitam tarefas diárias e melhoram a eficiência.
+- Cite Exemplos de agentes inteligentes que já estão presentes em nossas vidas
+- Faça Considerações sobre segurança e privacidade relacionadas ao uso de agentes inteligentes
+- Cite Desafios atuais e futuros no desenvolvimento e adoção de agentes inteligentes
+- Faça um call to action para minhas redes sociais
+- Coloque 3 hashtags que façam sentido com o tema.
+|
 
 Lexica.art：
 
